@@ -39,6 +39,3 @@ Feel free to use the project for learning purposes because I'm also a student
 ## Author
 Shubham Kushwaha
 
----
-
-This should serve as a solid **README** for your project. Let me know if you'd like to add anything else!
