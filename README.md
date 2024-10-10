@@ -34,7 +34,7 @@ The SVM classifier provided better performance in sentiment classification due t
 - Explore **real-time sentiment analysis** using data streaming technologies.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Feel free to use the project for learning purposes because I'm also a student
 
 ## Author
 Shubham Kushwaha
